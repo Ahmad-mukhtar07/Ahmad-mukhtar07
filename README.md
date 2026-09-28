@@ -16,7 +16,7 @@ I build software products, mostly AI-driven ones, and I like taking an idea from
 | **DocSourced** | Chrome extension to snip images and text from any page into Google Docs, with references attached. | [GitHub](https://github.com/Ahmad-mukhtar07/DocSourced) |
 | **Focus Web** | Chrome extension to strip distractions off any webpage and focus on what matters. | [GitHub](https://github.com/Ahmad-mukhtar07/FocusWeb) |
 
-## 🧰 How I work
+## How I work
 
 - **Core stack:** TypeScript / JavaScript, React, Node.js, PostgreSQL (mostly via Supabase)
 - **For AI work:** Python for LLM pipelines, RAG, speech models and computer vision
@@ -26,11 +26,11 @@ I build software products, mostly AI-driven ones, and I like taking an idea from
 
 I want to build, or help build, products that reach a lot of people. The problems that interest me most are the ones where software is still underused and a good tool would change daily life for many people at once, like courts, schools and public services. I enjoy the early messy stage of a product, but I'm just as interested in the work of making something hold up at scale.
 
-## ✍️ Writing
+## Writing
 
 I write about AI and backend engineering on [Medium](https://medium.com/@ahmadmukhtar2001): RAG vs fine-tuning, data scraping with Python, clean Node.js setups.
 
-## 📫 Get in touch
+## Get in touch
 
 Working on something ambitious, or hiring for AI or full-stack roles? I'd like to hear about it.
 [ahmadmukhtar2001@gmail.com](mailto:ahmadmukhtar2001@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmad-mukhtar-bhatti)
